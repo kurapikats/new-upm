@@ -1,0 +1,26 @@
+{
+  "name": "new-upm",
+  "homepage": "https://github.com/kurapikats/new-upm",
+  "authors": [
+    "Onin <jesus.nana@gmail.com>"
+  ],
+  "description": "Official Website of University of the Philippines Manila",
+  "main": "index.html",
+  "keywords": [
+    "UP",
+    "Manila"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
